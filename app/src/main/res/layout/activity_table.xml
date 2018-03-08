@@ -48,7 +48,7 @@
             android:layout_span="2"
             android:hint="password" />
     </TableRow>
-    =
+
 
     <TableRow>
 
